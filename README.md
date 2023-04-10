@@ -1,2 +1,2 @@
 # iGEM-parts-package
-Package of iGEM parts
+Experimentation with package design - example of a potential package of iGEM parts
